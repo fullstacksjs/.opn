@@ -4,17 +4,17 @@
   "description": "We Grow Together.",
   "sections": [
     {
-      "title": "About Us",
+      "title": "🌱 About Us",
       "type": "text",
       "content": "FullstacksJS is an open-source community focused on knowledge sharing, exploring, and enhancing developer experience. The primary objective of this community is to establish a professional environment for in-depth content in the software development and engineering field. To learn and strengthen the culture of open-source development and contribution, the projects that are developed in this community are entirely open-source, and members are encouraged to participate."
     },
     {
-      "title": "Motivation",
+      "title": "✨ Motivation",
       "type": "text",
       "content": "The Internet is full of unfiltered programming content, tutorials, and forums, which provide incomplete, outdated, and sometimes incorrect information to the knowledge seekers in this field. Therefore, we decided to establish a community where experts control and review the contents and activities. This creates a community that values in-depth and correct content."
     },
     {
-      "title": "Projects",
+      "title": "🧰 Projects",
       "type": "list",
       "items": [
         {
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "title": "Links",
+      "title": "🌐 Links",
       "type": "links",
       "links": [
         {
