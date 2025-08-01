@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "name": "FullstacksJS",
+  "description": "We Grow Together.",
+  "sections": [
+    {
+      "title": "About Us",
+      "type": "text",
+      "content": "FullstacksJS is an open-source community focused on knowledge sharing, exploring, and enhancing developer experience. The primary objective of this community is to establish a professional environment for in-depth content in the software development and engineering field. To learn and strengthen the culture of open-source development and contribution, the projects that are developed in this community are entirely open-source, and members are encouraged to participate."
+    },
+    {
+      "title": "Motivation",
+      "type": "text",
+      "content": "The Internet is full of unfiltered programming content, tutorials, and forums, which provide incomplete, outdated, and sometimes incorrect information to the knowledge seekers in this field. Therefore, we decided to establish a community where experts control and review the contents and activities. This creates a community that values in-depth and correct content."
+    },
+    {
+      "title": "Projects",
+      "type": "list",
+      "items": [
+        {
+          "title": "@fullstacksjs/toolbox",
+          "description": "A zero-dependency 📦, tree-shakable🌲 collection of missing JavaScript utilities.",
+          "url": "https://toolbox.fullstacksjs.com/"
+        },
+        {
+          "title": "@fullstacksjs/eslint-config",
+          "description": "One configuration to rule them all.",
+          "url": "https://github.com/fullstacksjs/eslint-config"
+        },
+        {
+          "title": "@fullstacksjs/config",
+          "description": "A zero-dependency 📦, type-safe 🚧, simple yet powerful library for defining and accessing configuration.",
+          "url": "https://config.fullstacksjs.com/"
+        },
+        {
+          "title": "NPM Check Last Publish",
+          "description": "A simple CLI tool that helps developers check the last published versions of their project dependencies.",
+          "url": "https://github.com/fullstacksjs/npm-check-last-publish"
+        },
+        {
+          "title": "You Don’t Know HTML",
+          "description": "An open-source, community-driven quiz game to test your HTML skills. Discover fun challenges and see how well you really know your tags and attributes!",
+          "url": "https://www.youdontknowhtml.com/"
+        }
+      ]
+    },
+    {
+      "title": "Links",
+      "type": "links",
+      "links": [
+        {
+          "title": "Website",
+          "url": "https://fullstacksjs.com/"
+        },
+        {
+          "title": "GitHub",
+          "url": "https://github.com/fullstacksjs"
+        },
+        {
+          "title": "Telegram",
+          "url": "https://t.me/fullstacksjs"
+        },
+        {
+          "title": "X (Twitter)",
+          "url": "https://x.com/fullstacksjs"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/company/fullstacksjs"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://youtube.com/@fullstacksjs"
+        },
+        {
+          "title": "Twitch",
+          "url": "https://twitch.tv/fullstacksjs"
+        }
+      ]
+    }
+  ]
+}
